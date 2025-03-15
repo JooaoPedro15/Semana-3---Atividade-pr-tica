@@ -10,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Pedro Costa e Silva
+- Matricula: 891500
+- Proposta de projeto escolhida: Layout estilo YouTube
+- Breve descrição sobre seu projeto: Este projeto tem como objetivo reproduzir de forma simples um layout inspirado no YouTube.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe do projeto](./public/wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da Home-Page](./public/printhomepage.png)
