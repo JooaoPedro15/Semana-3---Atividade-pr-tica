@@ -73,7 +73,7 @@
   
   /* CARD */
   .card {
-    border: 1px solid #ddd;
+    border: 3px solid #000000;
     padding: 0.5rem;
     margin-bottom: 1rem;
     display: inline-block; /* Para exibir lado a lado, se preferir, use inline-block ou flex */
